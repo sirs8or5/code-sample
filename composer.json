@@ -1,0 +1,15 @@
+{
+  "name": "sirs8or5/metrics",
+  "description": "Report Generator",
+  "require": {
+    "php": ">=7.1.0",
+    "ext-json": "*",
+    "ext-curl": "*"
+  },
+  "autoload": {
+    "psr-4" : {
+      "": "src/"
+    }
+  },
+  "minimum-stability": "stable"
+}
